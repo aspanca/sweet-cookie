@@ -1,10 +1,10 @@
 ---
 date: '2017-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - June 2017'
-url: 'https://web.northeastern.edu/scout/'
+title: 'Frontend Developer'
+company: 'Icon Group'
+location: 'Berlin, Germany'
+range: '2020 - 2022'
+url: 'https://www.icongroup.com/'
 ---
 
 - Collaborated with a small team of student designers to spearhead a new brand and design system for Scout’s inaugural student-led design conference at Northeastern

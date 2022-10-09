@@ -1,11 +1,11 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'sweetcookie.as@gmail.com',
 
   socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
+    // {
+    //   name: 'GitHub',
+    //   url: 'https://github.com/bchiang7',
+    // },
     {
       name: 'Instagram',
       url: 'https://www.instagram.com/bchiang7',
@@ -33,10 +33,10 @@ module.exports = {
       name: 'Experience',
       url: '/#jobs',
     },
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',

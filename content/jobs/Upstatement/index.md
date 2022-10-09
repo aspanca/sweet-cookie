@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
 title: 'Engineer'
-company: 'Upstatement'
+company: 'Lean Link'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
